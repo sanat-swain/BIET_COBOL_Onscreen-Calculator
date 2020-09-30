@@ -1,0 +1,1 @@
+written in RM-COBOL 77 .. (OK with Cobol85) to implement a simple on-screen calculator.
